@@ -1,1 +1,1 @@
-# mod-lisation-des-prix-en-bourse
+# modélisation-des-prix-en-bourse
